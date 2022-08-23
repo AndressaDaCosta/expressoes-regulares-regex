@@ -20,3 +20,9 @@ Existem quantifiers que definem quantas vezes um caractere deve aparecer:
 - \s significa whitespace e é um atalho para [ \t\r\n\f].
 
 - \w significa word char e é uma atalho para [A-Za-z0-9_].
+
+### O que aprendemos Aula 03?
+Existem âncoras predefinidas que selecionam uma posição dentro do alvo.
+\b é uma âncora que seleciona um word boundary, isso é o início ou fim da palavra.
+^ é uma âncora que seleciona o início da string alvo.
+$ é uma âncora que seleciona o fim do alvo.
